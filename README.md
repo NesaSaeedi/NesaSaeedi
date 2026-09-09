@@ -1,5 +1,7 @@
 Hi, I'm Nesa 👋🏻
+
 💻 Front-end Developer | 🌱 Student | ✨ Tech Enthusiast
+
 Welcome to my little corner of GitHub! 💗
 
 I'm a student who enjoys coding, building websites, and learning new technologies.
