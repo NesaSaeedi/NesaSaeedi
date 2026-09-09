@@ -20,6 +20,6 @@ Tools
 Here you'll find my coding experiments, learning projects, and web development work.
 
 📫 Let's Connect
-Instagram • LinkedIn
+[LinkedIn](https://www.linkedin.com/in/nesa-saeedi-b79aba434/)
 
 ⭐ Thanks for visiting my profile!
