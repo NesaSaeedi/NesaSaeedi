@@ -12,7 +12,7 @@ Frontend
 
 Tools
 
-Git GitHub VS Code
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 📂 My Projects
 Here you'll find my coding experiments, learning projects, and web development work.
