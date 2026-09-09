@@ -16,7 +16,7 @@ Tools
 
 📂 My Projects
 Here you'll find my coding experiments, learning projects, and web development work.
-
+<img src="https://github-readme-stats.vercel.app/api?username=NesaSaeedi&show_icons=true&theme=tokyonight" />
 📫 Let's Connect
 Instagram • LinkedIn
 
