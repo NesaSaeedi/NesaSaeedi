@@ -8,7 +8,7 @@ I'm always working on improving my skills and turning new ideas into projects.
 💻 Tech Stack
 Frontend
 
-HTML CSS JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 Tools
 
