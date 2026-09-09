@@ -34,4 +34,4 @@ Here you'll find my coding experiments, learning projects, and web development w
 
 ---
 
-⭐ Thanks for visiting my profile!
+                                            Thanks for visiting my profile
