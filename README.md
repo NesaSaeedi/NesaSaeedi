@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Nesa 👋🏻
+💻 Front-end Developer | 🌱 Student | ✨ Tech Enthusiast
+Welcome to my little corner of GitHub! 💗
 
-<!--
-**NesaSaeedi/NesaSaeedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who enjoys coding, building websites, and learning new technologies.
+I'm always working on improving my skills and turning new ideas into projects.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML CSS JavaScript
+
+Tools
+
+Git GitHub VS Code
+
+📂 My Projects
+Here you'll find my coding experiments, learning projects, and web development work.
+
+📫 Let's Connect
+Instagram • LinkedIn
+
+⭐ Thanks for visiting my profile!
